@@ -1,0 +1,11 @@
+!define TEST_SYSTEM {slim}
+
+!path C:\Users\kumari.poonam\Downloads\Tax
+
+!|TaxCalculationFixture|
+|taxableIncome|tax?|
+|250000|0.0|
+|500000|50000.0|
+|1000000|200000.0|
+|2000000|600000.0|
+
